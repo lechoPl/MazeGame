@@ -20,7 +20,7 @@ Maze is generated randomly.
 
 Controls:
 
-	w, s, a, 	 	- move
+	w, s, a, 	 - move
 	p 			- pick object
 	o 			- open door
 	l 			- use key
