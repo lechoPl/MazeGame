@@ -19,6 +19,7 @@ Maze is generated randomly.
 	♦ - wall
 
 Controls:
+
 	w, s, a, 	 	- move
 	p 			- pick object
 	o 			- open door
