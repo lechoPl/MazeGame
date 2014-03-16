@@ -20,8 +20,8 @@ Maze is generated randomly.
 
 Controls:
 
-	w, s, a, 	 - move
-	p 			- pick object
-	o 			- open door
-	l 			- use key
-	esc			- exit
+	w, s, a,d	- move
+	p 		- pick object
+	o 		- open door
+	l 		- use key
+	esc		- exit
